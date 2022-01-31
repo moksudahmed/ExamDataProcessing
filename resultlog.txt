@@ -1,0 +1,115 @@
+duplicate key value violates unique constraint "check_input_cse"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(171-115-001, 115, 41, CSE-471) already exists.
+
+duplicate key value violates unique constraint "check_input_cse"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(161-115-012, 115, 41, MAT-235) already exists.
+
+duplicate key value violates unique constraint "check_input_cse"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-115-080, 115, 44, CSE-235) already exists.
+
+duplicate key value violates unique constraint "check_input_cse"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-115-136, 115, 44, CSE-235) already exists.
+
+duplicate key value violates unique constraint "check_input_cse"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(151-115-080, 112, 18, CSE-321) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(193-111-001, 111, 14, GED-201) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(201-111-001, 111, 15, BBA-113) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(161-141-017, 141, 36, EEE-337) already exists.
+
+relation "x_tbesl_tmp_marks_eee" does not exist
+LINE 1: INSERT INTO x_tbesl_tmp_marks_eee(
+                    ^
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(172-142-004, 142, 30, EEE-311) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(172-142-004, 142, 30, EEE-311) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(172-142-004, 142, 30, EEE-311) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(172-142-004, 142, 30, EEE-311) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eee"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-111-002, 111, 10, BBA-222) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(171-111-001, 111, 7, BBA-324) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(171-111-001, 111, 7, BBA-324) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(193-111-001, 111, 14, GED-201) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(171-111-001, 111, 7, BBA-324) already exists.
+
+duplicate key value violates unique constraint "check_input_eco"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(171-111-001, 111, 7, BBA-324) already exists.
+
+duplicate key value violates unique constraint "check_input_eng"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(181-114-079, 114, 40, ENG-393) already exists.
+
+duplicate key value violates unique constraint "check_input_law"
+DETAIL:  Key ("studentID", "programCode", "batchName", "courseCode")=(193-132-002, 132, 30, LLM-512) already exists.
+
