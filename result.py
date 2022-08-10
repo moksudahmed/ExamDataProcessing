@@ -15,7 +15,7 @@ missing = []
 n = 0
 
 try:
-    myConnection = psycopg2.connect( host="localhost", port="8085", user="postgres", password="dream@3030.com", dbname="db_muERPv7p2" )
+    myConnection = psycopg2.connect( host="localhost", port="", user="postgres", password="", dbname="" )
 except psycopg2.DatabaseError:
     sys.exit('Failed to connect to database')
 
